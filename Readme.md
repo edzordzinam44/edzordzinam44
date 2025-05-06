@@ -1,4 +1,4 @@
-# Hello, I'm EdzordziNam Alipui 👋
+# Hello, I'm Edzordzinam Alipui 👋
 
 ## About Me
 
