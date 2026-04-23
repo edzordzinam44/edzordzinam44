@@ -13,6 +13,7 @@ Frontend Developer passionate about creating engaging web experiences. Currently
 ## Current Projects
 
 - Portfolio Website: Personal site to showcase my work and skills in web development
+- Currently Pursuing BTECH ICT at Koforidua Technical University
 
 ## Stats
 
