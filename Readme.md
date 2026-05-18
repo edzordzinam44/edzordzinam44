@@ -22,7 +22,7 @@ Frontend Developer passionate about creating engaging web experiences. Currently
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/edzordzinam-alipui-8b082827b)
-- [X/Twitter](https://x.com/Edzordzinam_tec?t=nOAHyGaP1TpBFX2rYWaRQg&s=09)
+- [X/Twitter](https://www.twitter.com/fabuloushope_)
 - Email: <edzordzinam.alipui@gmail.com>
 
 ## Fun Facts
