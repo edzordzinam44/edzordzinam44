@@ -17,7 +17,9 @@ Frontend Developer passionate about creating engaging web experiences. Currently
 
 ## Stats
 
+<p align="center">
 ![GitHub Streak counter](https://github-readme-streak-stats-smoky-eta.vercel.app?user=edzordzinam44&theme=javascript-dark&border_radius=9.9)
+</p>
 
 ## Connect With Me
 
