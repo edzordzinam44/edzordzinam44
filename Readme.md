@@ -17,7 +17,7 @@ Frontend Developer passionate about creating engaging web experiences. Currently
 
 ## Stats
 
-![GitHub Streak counter](https://github-readme-streak-stats-smoky-eta.vercel.app?user=FabulousHope&theme=highcontrast)(https://git.io/streak-stats)
+![GitHub Streak counter](https://github-readme-streak-stats-smoky-eta.vercel.app?user=edzordzinam44&theme=highcontrast)(https://git.io/streak-stats)
 
 ## Connect With Me
 
