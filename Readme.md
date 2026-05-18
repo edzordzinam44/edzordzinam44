@@ -18,6 +18,7 @@ Frontend Developer passionate about creating engaging web experiences. Currently
 ## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edzordzinam44&show_icons=true&theme=react)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect With Me
 
