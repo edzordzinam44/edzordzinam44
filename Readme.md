@@ -23,7 +23,7 @@ Frontend Developer passionate about creating engaging web experiences. Currently
 
 - [LinkedIn](https://www.linkedin.com/in/edzordzinam-alipui-8b082827b)
 - [X/Twitter](https://www.twitter.com/fabuloushope_)
-- Email: <edzordzinam.alipui@gmail.com>
+- Email: <edzordzinam.alipui1@gmail.com>
 
 ## Fun Facts
 
